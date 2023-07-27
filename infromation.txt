@@ -1,0 +1,8 @@
+haar cascade xml for chess board
+    https://github.com/prashantdukecyfi/Chessboard-Detection
+    https://www.geeksforgeeks.org/face-detection-using-cascade-classifier-using-opencv-python/
+
+    
+    https://github.com/learncodebygaming/opencv_tutorials/tree/master/008_cascade_classifier
+    https://learncodebygaming.com/blog/training-a-cascade-classifier
+    https://www.youtube.com/watch?v=XrCAvs9AePM
